@@ -34,4 +34,4 @@ jobs:
         python -c "import flask; import google.generativeai; print('Imports successful!')"
         echo "Basic application check passed."
 
-    # Optional: Add linting, more comprehensive tests here
+    # Optional: Add linting, more comprehensive tests here ##
